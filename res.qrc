@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/apple.png</file>
+        <file>resource/banana.png</file>
+        <file>resource/grape.png</file>
+        <file>resource/kiwi.png</file>
+        <file>resource/BACK.png</file>
+        <file>resource/levelselect.png</file>
+        <file>resource/main1.png</file>
+        <file>resource/12x12_background.png</file>
+        <file>resource/16x16_background.png</file>
+        <file>resource/easy_background.png</file>
+        <file>resource/expert_background.png</file>
+        <file>resource/kids_background.png</file>
+        <file>resource/medium_background.png</file>
+        <file>resource/time1.png</file>
+        <file>resource/how_to_play.png</file>
+        <file>resource/savedlevel.png</file>
+    </qresource>
+</RCC>
